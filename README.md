@@ -1,5 +1,10 @@
 # cybernet
 
+Created custom forms to order pizza, changed little bit for myself
+I did not answered an Excersie questions, only first one
+
+Rasa interesting tool, not too difficult for understanding :)
+
 What's the difference between the NLU system in Rasa and the Policy system in Rasa?
   Rasa's NLU system is responsible for processing the raw text entered by the user and  converting it into machine-readable data
   The policy system in Rasa predicts the next action that the assistant should take based on the entire conversation history
